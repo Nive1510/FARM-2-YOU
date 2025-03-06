@@ -1,0 +1,7 @@
+.git
+.github
+.vscode
+*.md
+!README.md
+**/node_modules
+**/db/demo-db
